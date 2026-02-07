@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MALICE MIZER - Garnet～禁断の園へ～ (OFFICIAL MUSIC VIDEO)",
+  "base_artist": "MALICE MIZER",
+  "createdAt": "2026-02-07T13:40:16.540070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Malice Mizer - Gekka no Yasoukyoku",
+      "artist": "Lia-",
+      "has_synced": false,
+      "path": "select/01_Malice_Mizer_-_Gekka_no_Yasoukyoku_Lia-.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ILLUMINATI (MALICE MIZER Cover)",
+      "artist": "Moran",
+      "has_synced": false,
+      "path": "select/02_ILLUMINATI_(MALICE_MIZER_Cover)_Moran.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Garnet ～禁断の園へ～",
+      "artist": "MALICE MIZER",
+      "has_synced": false,
+      "path": "select/pl_01_Garnet_~禁断の園へ~_MALICE_MIZER.txt"
+    }
+  ]
+}
